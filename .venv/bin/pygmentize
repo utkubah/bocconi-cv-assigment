@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/berkay/Desktop/homework vis/bocconi-cv-assigment/.venv/bin/python" "$0" "$@"
-' '''
+#!/Users/erenksoglu/Desktop/bocconi-cv-assigment/.venv/bin/python3.13
 import sys
 from pygments.cmdline import main
 if __name__ == '__main__':
