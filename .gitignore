@@ -1,3 +1,28 @@
-.venv/
+# ===== Python =====
 __pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+build/
+dist/
+
+# ===== Virtual envs =====
+.venv/
+venv/
+env/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== OS files =====
 .DS_Store
+Thumbs.db
+
+# ===== IDE =====
+.vscode/
+.idea/
+
+# ===== Outputs (recommended) =====
+outputs/
+results/
+*.log
